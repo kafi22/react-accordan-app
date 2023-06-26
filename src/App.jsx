@@ -4,7 +4,7 @@ const App = () => {
 
   return (
     <>
-    <h1>React Accordion</h1>
+   
     <Accordian />
     </>
   )
