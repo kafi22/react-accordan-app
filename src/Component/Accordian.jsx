@@ -9,7 +9,7 @@ const Accordian = () => {
 
   return (
     <div className=' container mx-auto max-w-2xl grid place-content-center min-h-screen my-4'>
-       <h1 className=' text-2xl font-semibold leading-6 text-slate-900 my-9'>React Accordion</h1>
+       <h1 className=' text-2xl font-semibold leading-6 text-slate-900 my-9 text-center mx-auto'>React Accordion</h1>
         <Question data={data} />
     </div>
   )
